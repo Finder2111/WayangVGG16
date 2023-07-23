@@ -1,0 +1,4 @@
+Bagong: 77
+Gareng: 57
+Petruk: 58
+Semar: 89
